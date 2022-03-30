@@ -11,6 +11,6 @@ Simple functions have been to manipulate data structure and file handling, so he
 Add student record
 Search student record
 Modify student record
-Generate marksheet (also see: student report card system project in C++)
+Generate marksheet 
 Delete student record
 Change password

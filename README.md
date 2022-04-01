@@ -9,5 +9,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/09c8865d086d41278aca9ec95c57a170)](https://www.codacy.com/gh/hgupta28/M1_Students_record/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hgupta28/M1_Students_record&amp;utm_campaign=Badge_Grade)
 
 *codiga-static Analysis
-https://api.codiga.io/project/32384/status/svg
+[![Quality](https://api.codiga.io/project/32384/status/svg)
 

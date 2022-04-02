@@ -17,3 +17,18 @@ Here, a console window is virtually divided into 2 parts – one is static and i
 *codiga-static Analysis
 ![Quality](https://api.codiga.io/project/32384/status/svg)
 
+# Features of Student Record System in C:
+Simple functions have been to manipulate data structure and file handling, so here I will just list the features of this project.
+
+1.Add student record
+
+2.Search student record
+
+3.Modify student record
+
+4.Generate marksheet 
+
+5.Delete student record
+
+6.Change password
+
